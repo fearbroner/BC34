@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default" style="font-size: 13px;">
 	<div class="container-fluid">
-		<a class="navbar-logo" href="/">DWS</a>
+		<a class="navbar-brand" href="https://www.bungie.net/en/Clan/Xbox/385854" target="_blank">D.W.S.</a>
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar"></span>
@@ -774,38 +774,33 @@
 			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;"><img src="http://i.imgur.com/LPgEQGG.jpg" width="100%" height="px"alt="twitch" title="twitch"></h3>
 			<div class="row">
         			<div class="col-md-6">
-					<a href="https://twitch.tv/fearbroner" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/fearbroner.png" width="300" height="65" alt="fearbroner's Streambadge"></a><br><br>
-			 		<a href="https://twitch.tv/cupidreturns" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/cupidreturns.png" width="300" height="65" alt="cupidreturns's Streambadge"></a><br><br>
+					<a href="https://twitch.tv/cupidreturns" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/cupidreturns.png" width="300" height="65" alt="cupidreturns's Streambadge"></a><br><br>
 					<a href="http://twitch.tv/F4CEKILL3R" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/F4CEKILL3R.png" width="300" height="65" alt="F4CEKILL3R's Streambadge"></a><br><br>
 			 		<a href="https://twitch.tv/ellscorcho" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/ellscorcho.png" width="300" height="65" alt="ellscorcho's Streambadge"></a><br><br>
-			 		<a href="https://twitch.tv/UnspeakableOath" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/UnspeakableOath.png" width="300" height="65" alt="UnspeakableOath's Streambadge"></a><br><br>
 				</div>
 				<div class="col-md-6">
-					<a href="https://twitch.tv/swappingspit" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/swappingspit.png" width="300" height="65" alt="swappingspit's Streambadge"></a><br><br>
-			 		<a href="https://twitch.tv/animosity022" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/animosity022.png" width="300" height="65" alt="animosity022's Streambadge"></a><br><br>
-			 		
 					<a href="http://twitch.tv/thecotilion" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/thecotilion.png" width="300" height="65" alt="thecotilion's Streambadge"></a><br><br>
 					<a href="https://twitch.tv/gramdarecomplex" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/gramdarecomplex.png" width="300" height="65" alt="gramdarecomplex's Streambadge"></a><br><br>
-			 		<a href="https://twitch.tv/legendaryladman" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/legendaryladman.png" width="300" height="65" alt="legendaryladman's Streambadge"></a><br><br>
+					<a href="https://twitch.tv/fearbroner" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/fearbroner.png" width="300" height="65" alt="fearbroner's Streambadge"></a><br><br>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div id="Cupid" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Broner's Blog</h3>
+			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Cupid</h3>
 			Stay Tuned<br>
 		</div>
 	</div>
 	<div id="Foople" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Swapping's Spit</h3>
+			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Foople</h3>
 			Stay Tuned<br>
 		</div>
 	</div>
 	<div id="driviks" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Animosity's Angle</h3>
+			<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Driviks</h3>
 			Stay Tuned<br>
 		</div>
 	</div>
